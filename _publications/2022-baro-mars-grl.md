@@ -2,7 +2,7 @@
 title: "Barometric pumping through fractured rock: a mechanism for venting deep methane to Mars’ atmosphere"
 collection: publications
 permalink: /publication/2022-mars-baro-grl
-excerpt: 'This article was featured on the cover of this GRL issue: https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/grl.62460' 
+excerpt: 'This article was featured on the [cover](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/grl.62460) of this GRL issue.' 
 date: 2022-07-13
 venue: 'Geophysical Research Letters'
 paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL098946'
