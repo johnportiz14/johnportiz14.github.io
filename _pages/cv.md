@@ -11,7 +11,7 @@ redirect_from:
 
 
 <!-- [CV](/files/pdf/john_ortiz_cv.pdf){: .btn--research} -->
-[CV](/files/john_ortiz_cv.pdf){: .btn--research}
+[Download CV](/files/john_ortiz_cv.pdf){: .btn--research}
 
 Education
 ======
