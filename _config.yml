@@ -84,7 +84,7 @@ author:
   avatar           : "JohnPhilipOrtiz-cropped.jpg"
   bio              : "PhD Candidate in Environmental Engineering"
   location         : #"Location"
-  employer         :
+  employer         : "Los Alamos National Laboratory"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=dpngZhIAAAAJ&hl=en"
   email            : "jportiz@lanl.gov"
@@ -101,7 +101,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/john-philip-ortiz/" 
+  linkedin         : "john-philip-ortiz" 
   orcid            : "http://orcid.org/0000-0002-2294-119X"
   pinterest        :
   soundcloud       :
@@ -187,7 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  research:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:

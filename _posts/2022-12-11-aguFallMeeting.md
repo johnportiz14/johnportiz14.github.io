@@ -11,8 +11,7 @@ tags:
 
 I'll be presenting a poster at the AGU Fall Meeting 2022 in Chicago. It is about modeling underground methane transport on Mars driven by barometric pressure fluctuations. I would be interested in chatting to other Mars and planetary science researchers.  
 
-![AGUbanner](/images/agubanner.png)
-
+![AGUbanner](/images/posts/aguBanner2.jpg)
 
 **When:** Tuesday December 13th &nbsp;&nbsp; \| &nbsp;&nbsp; 9am - 12:30pm
 

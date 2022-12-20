@@ -20,7 +20,8 @@ planetary science • numerical modeling • hydrogeology • fractures • petr
 Updates
 -------
 
-![AGUbanner](/images/agubanner.png)
+<!-- ![AGUbanner](/images/posts/aguBanner2.jpg) -->
+<img src="/images/posts/aguBanner2.jpg" alt="AGUbanner" width="500px"/>
 
 Come stop by my poster at the AGU Fall Meeting 2022! 
 
