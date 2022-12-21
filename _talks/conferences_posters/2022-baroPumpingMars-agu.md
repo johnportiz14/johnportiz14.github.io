@@ -2,6 +2,7 @@
 title: "Barometric pumping through fractured rock: A mechanism for venting deep underground methane to Mars’ atmosphere"
 collection: talks
 type: "Conference Poster"
+#talk_type: "Conference Poster" 
 permalink: /talks/2022-baroPumpingMars-agu
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 venue: "<i>Session: P22F The New Mars Underground: Nexus of Decadal Planetary Science Objectives II</i>" 
