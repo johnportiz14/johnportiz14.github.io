@@ -14,22 +14,24 @@ tags:
   - Langmuir isotherm
 ---
 
+
+<!-- <figure> -->
+  <!-- <img src='/images/research/adsorption.gif'> -->
+  <!-- <figcaption>Animation showing the temperature dependence of gas particles onto rock/soil walls within a fracture or pore.</figcaption> -->
+<!-- </figure> -->
+
 <!-- <div style="text-align: center;"> -->
-<!-- <img src='/images/research/gwFig10_panel1.png' -->
-<!-- width='500px'> -->
+  <img src='/images/research/adsorption.gif'
+   width='500px'>
 <!-- </div> -->
+  
+*Animation showing the temperature dependence of gas particle adsorption onto rock/soil walls within a fracture or pore.*
 
-<figure>
-  <img src='/images/research/adsorption.gif'>
-  <figcaption>Animation showing the temperature dependence of gas particles onto rock/soil walls within a fracture or pore.</figcaption>
-</figure>
+Adsorption is the adhesion of atoms, ions or molecules from a gas, liquid or dissolved solid to a surface. As a result, adsorption is a process that retards contaminant transport through porous media, so it is important for us to understand for a variety of applications. 
 
-<!-- The link between wastewater reinjection into basal -->
-<!-- reservoirs -- that is, reservoir formations located directly on top of basement rocks -- and triggered seismicity within the underlying crystalline basement has been documented at a number of sites in the United States. -->
+# Highlighted Works 
 
-
-## Highlighted Articles
-
+## Articles
 
 Neil, C. W., Boukhalfa, H., Xu, H., Ware, S. D., <b>Ortiz, J.</b>, Avendaño, S., Harp, D. R., Broome, S., Hjelm, R. P., Brug, W. P., & Stauffer, P. H. (2022). Gas diffusion through variably-water-saturated zeolitic tuff: Implications for transport following a subsurface nuclear event. <i>Journal of Environmental Radioactivity</i>, 250, 106905.
 
@@ -41,3 +43,10 @@ Harp, D. R., <b>Ortiz, J. P.</b>, Pandey, S., Karra, S., Anderson, D., Bradley, 
 
 [Page](/publication/publication/2018-immobilePoreWater-harp-tipm){: .btn--research} [Article](https://doi.org/10.1007/s11242-018- 1072-8){: .btn--research} 
 
+---------
+
+## Posters
+
+<b>Ortiz, J. P.</b>. Noble gas diffusion through variably-saturated rock: implications for verification of subsurface nuclear events (2019). <i>LANL Student Symposium</i>.  
+
+[Page](/talks/conference_posters/2019-studentSymposium-poster.md){: .btn--research}

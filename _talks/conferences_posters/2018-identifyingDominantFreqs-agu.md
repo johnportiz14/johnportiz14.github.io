@@ -1,7 +1,7 @@
 ---
 title: "Identifying dominant barometric frequencies driving gas transport in fractured rock"
 collection: talks
-type: "Conference Poster"
+type: "Poster"
 permalink: /talks/2018-identifyingDominantFreqs-agu
 venue: "Session: H51P Coupled Processes in Fractured Media Across Scales: Experimental and Modeling Advances" 
 date: 2018-12-12

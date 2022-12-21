@@ -13,12 +13,16 @@ tags:
   - barometric pumping
 ---
 
+<!-- <div style="text-align: center;"> -->
+<!-- <img src='/images/research/curiositySlice_posterLarge_noSky_wFractures-01.png'  -->
+<!-- width='500px'> -->
+<!-- </div> -->
+<!-- *Cartoon schematic of Curiosity measuring methane on the surface of Mars.* -->
 
-<div style="text-align: center;">
 <img src='/images/research/curiositySlice_posterLarge_noSky_wFractures-01.png' 
 width='500px'>
-</div>
 
+*Cartoon schematic of Curiosity measuring methane on the surface of Mars.*
 
 
 This research seeks to move us towards a better of understanding of methane in Mars' atmosphere. It applies some of my previous work in terrestrial [barometric pumping](/research/baro-pumping/) to address the question of underground methane sources on Mars. 
@@ -46,4 +50,6 @@ width='250px'>
 <!-- Rob Williams. "Keeping a Lid on it: How Government efforts to Prevent Secession Attempts can Fail." Presented at the International Studies Association Annual Convention, Toronto, ON, March 2019. -->
 >
 
+## Poster
 
+[Page](/talks/conference_posters/2022-baroPumpingMars-agu.md){: .btn--research}

@@ -11,25 +11,20 @@ tags:
   - barometric pumping 
 ---
 
-<!-- <div style="text-align: center;"> -->
-<!-- <img src='/images/research/gwFig10_panel1.png' -->
-<!-- width='500px'> -->
-<!-- </div> -->
+<img src='/images/research/barom_pumping_concept_COMPLEX_v2_simpler.png'
+width='500px'>
 
-<figure>
-  <img src='/images/research/barom_pumping_concept_COMPLEX_v2_simpler.png'>
-  <figcaption>Schematic diagram showing how barometric pumping creates a ratcheting mechanism that brings gas from underground to the surface.</figcaption>
-</figure>
+*Schematic diagram showing how barometric pumping creates a ratcheting mechanism that brings gas from underground to the surface.*
 
-Add some info here...
+Weather systems have associated changes in atmospheric pressure. Storm systems bring low pressure and blue skies bring high pressure. These changes in pressure are also imposed on the soils and rocks beneath our feet. If the soils and rocks have sufficient open pore space or well‐connected fractures, atmospheric pressure changes can drive air into or pull air out of these geologic materials. This phenomenon is known as barometric pumping. Barometric pumping can accelerate the migration of natural or man‐made gases.
 
-<div style="text-align: center;">
 <img src='/images/research/applications_of_baro_pumping_composite.png'
 width='500px'>
-</div>
+
+*Barometric pumping in fractured rock is relevant in a variety of applications.*
 
 
-## Highlighted Articles
+# Highlighted Works 
 
 Avendaño, S. T., Harp, D. R., Kurwadkar, S., <b>Ortiz, J. P.</b>, & Stauffer, P. H. (2021). Continental‐Scale Geographic Trends in Barometric‐Pumping Efficiency Potential: A North American Case Study. <i>Geophysical Research Letters</i>, 48(17), e2021GL093875.
 
