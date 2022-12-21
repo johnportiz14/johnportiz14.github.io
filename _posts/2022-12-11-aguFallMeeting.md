@@ -2,7 +2,7 @@
 title: 'AGU Fall Meeting 2022, Chicago'
 date: 2022-12-11
 permalink: /posts/2022/12/aguFallMeeting/
-excerpt: "<img src='/images/posts/aguBanner2.jpg' alt='AGUbanner'>"
+excerpt: "<img src='/images/posts/aguBanner2.jpg' alt='AGUbanner' width='300'>"
 tags:
   - conferences 
   - updates 

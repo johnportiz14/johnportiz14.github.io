@@ -1,8 +1,9 @@
 ---
 title: "Methane on Mars"
 layout: single-portfolio
-excerpt: "<img src='/images/research/curiositySlice_posterLarge_noSky_wFractures-01.png' alt=''>"
+excerpt: "<img src='/images/research/curiositySlice_posterLarge_noSky_wFractures-01.png' alt='Cartoon of Curiosity measuring methane on the surface of Mars'>"
 collection: research
+author_profile: true
 order_number: 10
 header: 
 #  og_image: "research/epr.png"
@@ -20,10 +21,10 @@ width='500px'>
 
 
 
-This research seeks to move us towards a better of understanding of methane in Mars' atmosphere. It applies some of my previous work in terrestrial barometric pumping to the question of underground methane sources on Mars. 
+This research seeks to move us towards a better of understanding of methane in Mars' atmosphere. It applies some of my previous work in terrestrial [barometric pumping](/research/baro-pumping/) to address the question of underground methane sources on Mars. 
 
 
-## Article
+## Highlighted Article
 
 <b>Ortiz, J. P.</b>, Rajaram, H., Stauffer, P. H., Harp, D. R., Wiens, R. C., & Lewis, K. W. (2022). Barometric Pumping Through Fractured Rock: A Mechanism for Venting Deep Methane to Mars' Atmosphere. <i>Geophysical Research Letters</i>, 49(14), doi:10.1029/2022GL098946.
 
@@ -33,7 +34,7 @@ This research seeks to move us towards a better of understanding of methane in M
 
 This article was also featured on the [cover](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/grl.62460){: .btn--research} of this GRL issue:
 
-<div style="text-align: right;">
+<div style="text-align: center;">
 <img src='/images/research/GRLCover.jpg'
 width='250px'>
 </div>

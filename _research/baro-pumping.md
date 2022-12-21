@@ -1,0 +1,43 @@
+---
+title: "Barometric pumping"
+layout: single-portfolio
+excerpt: "<img src='/images/research/barom_pumping_concept_COMPLEX_v2_simpler.png'>"
+collection: research
+author_profile: true
+order_number: 40
+header: 
+#  og_image: "research/epr.png"
+tags:
+  - barometric pumping 
+---
+
+<!-- <div style="text-align: center;"> -->
+<!-- <img src='/images/research/gwFig10_panel1.png' -->
+<!-- width='500px'> -->
+<!-- </div> -->
+
+<figure>
+  <img src='/images/research/barom_pumping_concept_COMPLEX_v2_simpler.png'>
+  <figcaption>Schematic diagram showing how barometric pumping creates a ratcheting mechanism that brings gas from underground to the surface.</figcaption>
+</figure>
+
+Add some info here...
+
+<div style="text-align: center;">
+<img src='/images/research/applications_of_baro_pumping_composite.png'
+width='500px'>
+</div>
+
+
+## Highlighted Articles
+
+Avendaño, S. T., Harp, D. R., Kurwadkar, S., <b>Ortiz, J. P.</b>, & Stauffer, P. H. (2021). Continental‐Scale Geographic Trends in Barometric‐Pumping Efficiency Potential: A North American Case Study. <i>Geophysical Research Letters</i>, 48(17), e2021GL093875.
+
+[Page](/publication/2022-continentalScale-avendano-grl){: .btn--research} [Article](https://doi.org/10.1029/2021GL093875){: .btn--research} 
+
+---------
+
+Harp, D. R., <b>Ortiz, J. P.</b>, Pandey, S., Karra, S., Anderson, D., Bradley, C., Viswanathan, H., & Stauffer, P. H. (2018). Immobile pore-water storage enhancement and retardation of gas transport in fractured rock. <i>Transport in Porous Media</i>, 124(2), 369-394.
+
+[Page](/publication/2018-immobilePoreWater-harp-tipm){: .btn--research} [Article](https://doi.org/10.1007/s11242-018-1072-8){: .btn--research} 
+
