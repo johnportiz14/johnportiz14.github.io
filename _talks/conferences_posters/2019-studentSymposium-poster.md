@@ -4,7 +4,7 @@ collection: talks
 type: "Poster"
 permalink: /talks/2019-studenSymposium-poster
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-venue: "<i>LANL Student Symposium</i>"
+venue: "LANL Student Symposium"
 date: 2019-08-01
 location: "Los Alamos National Laboratory"
 #link: webpage of journal article

@@ -5,7 +5,7 @@ type: "Invited Talk"
 permalink: /talks/2022-lynmAllHands2
 venue: "LYNM Quad-Laboratory All-Hands Meeting"
 date: 2022-05-25
-location: "<b>Sandia National Laboratory</b>, Albuquerque, NM"
+location: "Sandia National Laboratory, Albuquerque, NM"
 tags:
   - UNEs
   - radionuclides
