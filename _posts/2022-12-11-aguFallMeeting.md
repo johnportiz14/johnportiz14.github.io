@@ -2,11 +2,12 @@
 title: 'AGU Fall Meeting 2022, Chicago'
 date: 2022-12-11
 permalink: /posts/2022/12/aguFallMeeting/
+excerpt: "<img src='/images/posts/aguBanner2.jpg' alt='AGUbanner'>"
 tags:
   - conferences 
   - updates 
-  - Mars
   - planetary science
+  - Mars
 ---
 
 I'll be presenting a poster at the AGU Fall Meeting 2022 in Chicago. It is about modeling underground methane transport on Mars driven by barometric pressure fluctuations. I would be interested in chatting to other Mars and planetary science researchers.  
