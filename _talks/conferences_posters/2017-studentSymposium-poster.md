@@ -4,10 +4,14 @@ radionuclide transport using experimental Xe diffusion data and numerical method
 collection: talks
 type: "Poster"
 permalink: /talks/2017-studenSymposium-poster
-#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-venue: "LANL Student Symposium"
 date: 2017-08-01
-location: "Los Alamos National Laboratory"
+#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+#location: "City, State"
+#venue: "Name of Conference/Meeting"
+#section: "specific section of the conference/meeting"
+location: "Los Alamos, NM" 
+venue: "LANL Student Symposium"
+section: "Los Alamos National Laboratory"
 #link: webpage of journal article
 #paperurl: local PDF file ( should be in /files/pdf/research/<filename>.pdf )
 #code: code/data webpage OR Supplementary Info PDF link

@@ -6,7 +6,9 @@ type: "Poster"
 permalink: /talks/2022-baroPumpingMars-agu
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-12-12
-#citystate: "Chicago, IL"
+#location: "City, State"
+#venue: "Name of Conference/Meeting"
+#section: "specific section of the conference/meeting"
 location: "Chicago, IL"
 venue: "AGU 2022 Fall Meeting"
 section: "Session: P22F The New Mars Underground: Nexus of Decadal Planetary Science Objectives II" 
