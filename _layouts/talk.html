@@ -35,8 +35,14 @@ layout: default
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
         {% endif %}
+	<!-- Try to add another tag and icon for city-state/location -->
+	{% if page.location %}
+	<p class="page__location"><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i>{{page.location}}</p> 
+	{% endif %}
         <!-- {% if page.talk_type %}<p>{{page.talk_type}} at {{ page.venue }},  {{page.location}} {% endif %} -->
-	{% if page.type %}<p><b>{{page.type}}</b> at {{ page.location }}<br><i>{{page.venue}}</i> {% endif %}
+	{% if page.type %}<p><strong>{{page.type}}</strong> at {{ page.venue }}<br><i>{{page.section}}</i> {% endif %}
+	<!-- {% if page.type %}<p><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ page.location }}<br><b>{{page.type}}</b> at <br><i>{{page.venue}}</i> {% endif %} -->
+
 
         </header>
       {% endunless %}

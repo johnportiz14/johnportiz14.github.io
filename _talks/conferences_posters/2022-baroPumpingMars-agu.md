@@ -5,9 +5,11 @@ type: "Poster"
 #talk_type: "Conference Poster" 
 permalink: /talks/2022-baroPumpingMars-agu
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-venue: "Session: P22F The New Mars Underground: Nexus of Decadal Planetary Science Objectives II" 
 date: 2022-12-12
-location: "AGU 2022 Fall Meeting, Chicago, IL"
+#citystate: "Chicago, IL"
+location: "Chicago, IL"
+venue: "AGU 2022 Fall Meeting"
+section: "Session: P22F The New Mars Underground: Nexus of Decadal Planetary Science Objectives II" 
 #link: webpage of journal article
 #paperurl: local PDF file ( should be in /files/pdf/research/<filename>.pdf )
 #code: code/data webpage OR Supplementary Info PDF link
