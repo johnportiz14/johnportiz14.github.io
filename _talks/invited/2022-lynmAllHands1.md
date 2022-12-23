@@ -8,8 +8,8 @@ date: 2022-05-26
 #venue: "Name of Conference/Meeting"
 #section: "specific section of the conference/meeting"
 location: "Albuquerque, NM"
-venue: "LYNM Quad-Laboratory All-Hands Meeting"
-section: "Sandia National Laboratory"
+venue: "Sandia National Laboratory"
+section: "LYNM Quad-Laboratory All-Hands Meeting"
 tags:
   - UNEs
   - radionuclides

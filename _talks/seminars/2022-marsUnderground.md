@@ -3,9 +3,13 @@ title: "The Mars Underground: Characterizing subsurface methane seepage on the R
 collection: talks
 type: "Seminar"
 permalink: /talks/2022-marsUnderground
-venue: "Environmental Health & Engineering Seminar"
 date: 2022-09-20
-location: "Johns Hopkins University, Baltimore, MD"
+#location: "City, State"
+#venue: "Name of Conference/Meeting"
+#section: "specific section of the conference/meeting"
+location: "Los Alamos, NM"
+venue: "Los Alamos National Laboratory"
+section: "EES-16 Science Café Series"
 tags:
   - Mars
   - methane
