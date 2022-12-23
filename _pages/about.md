@@ -22,21 +22,78 @@ planetary science • numerical modeling • hydrogeology • fractures • petr
 For more info about my research areas, see [Research](/research/){: .btn--research}.
 
 
-Updates
--------
+Education
+=========
+  <!-- <ul class="fa-ul"> -->
+    <!-- [> <li><span class="fa-li"><i class="fas fa-spinner fa-pulse"></i></span>Ph.D. Environmental Engineering, 2024 (expected)</li> <] -->
+    <!-- <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>Ph.D. Environmental Engineering, 2024 (expected)</li> -->
+    <!-- <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>M.Sc. Hydrogeology, 2017</li> -->
+    <!-- <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>B.A. (Honors) Earth Science, 2014</li> -->
+  <!-- </ul> -->
 
-<!-- ![AGUbanner](/images/posts/aguBanner2.jpg) -->
-<img src="/images/posts/aguBanner2.jpg" alt="AGUbanner" width="500px"/>
+  <ul class="fa-ul">
+    <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
+        Ph.D. Environmental Engineering, 2024 (expected)
+        <p style="color:#7a8288"><small>Johns Hopkins University</small></p>
+    </li>
+    <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
+        M.Sc. Hydrogeology, 2017
+        <p style="color:#7a8288"><small>New Mexico Institute of Mining & Technology</small></p>
+    </li>
+    <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
+        B.A. (Honors) Earth Science, 2014
+        <p style="color:#7a8288"><small>Dartmouth College</small></p>
+        <!-- <p style="color:#808080">Dartmouth College</p> -->
+        <!-- <p style="color: $lighter-gray">Dartmouth College</p> -->
+    </li>
+  </ul>
 
-Come stop by my poster at the AGU Fall Meeting 2022! 
 
-**When:** Tuesday December 13th &nbsp;&nbsp; \| &nbsp;&nbsp; 9am - 12:30pm
+<!-- <li> -->
+  <!-- [> <i class="fa-li fas fa-graduation-cap"></i> <] -->
+  <!-- [> <i class="fas fa-fw fa-graduation-cap"></i> <] -->
+  <!-- <i class="fas fa-li fa-graduation-cap"></i> -->
+  <!-- <div class="description"> -->
+    <!-- <p class="course">PhD in Biological Oceanography, 2016</p> -->
+    <!-- <p class="institution">University of British Columbia</p> -->
+  <!-- </div> -->
+<!-- </li> -->
+<!--  -->
+<!-- <li> -->
+  <!-- <i class="fa-li fas fa-graduation-cap"></i> -->
+  <!-- <div class="description"> -->
+    <!-- <p class="course">BSc(Hons) in Biology, 2005</p> -->
+    <!-- <p class="institution">University of New Brunswick</p> -->
+  <!-- </div> -->
+<!-- </li> -->
+<!--  -->
+<!-- <li> -->
+  <!-- <i class="fa-li fas fa-graduation-cap"></i> -->
+  <!-- <div class="description"> -->
+    <!-- <p class="course">BA in English, 2005</p> -->
+    <!-- <p class="institution">University of New Brunswick</p> -->
+  <!-- </div> -->
+<!-- </li> -->
 
-**Where:** Hall A
 
-**Session:** P22F – *The New Mars Underground: Nexus of Decadal Planetary Science Objectives II*
+<!-- Updates -->
+<!-- ------- -->
+<!--  -->
+<!-- [> ![AGUbanner](/images/posts/aguBanner2.jpg) <] -->
+<!-- <img src="/images/posts/aguBanner2.jpg" alt="AGUbanner" width="500px"/> -->
+<!--  -->
+<!-- Come stop by my poster at the AGU Fall Meeting 2022!  -->
+<!--  -->
+<!-- **When:** Tuesday December 13th &nbsp;&nbsp; \| &nbsp;&nbsp; 9am - 12:30pm -->
+<!--  -->
+<!-- **Where:** Hall A -->
+<!--  -->
+<!-- **Session:** P22F – *The New Mars Underground: Nexus of Decadal Planetary Science Objectives II* -->
+<!--  -->
+<!-- **Title:** Barometric pumping through fractured rock: A mechanism for venting deep underground methane to Mars’ atmosphere -->
 
-**Title:** Barometric pumping through fractured rock: A mechanism for venting deep underground methane to Mars’ atmosphere
+
+<!-- -------------------------------------------------- -->
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 <!--  -->

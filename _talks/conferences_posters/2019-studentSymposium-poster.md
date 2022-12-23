@@ -25,7 +25,8 @@ tags:
 
 <!-- This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field. -->
 
-**Abstract:** Gas transport through variably-saturated geologic media
+**Abstract:** 
+>Gas transport through variably-saturated geologic media
 has important applications for nuclear nonproliferation, as noble gas
 detection is one of the best candidates for the verification of
 clandestine underground nuclear events. The transport properties of

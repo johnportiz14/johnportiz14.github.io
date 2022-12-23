@@ -7,9 +7,9 @@ date: 2022-09-20
 #location: "City, State"
 #venue: "Name of Conference/Meeting"
 #section: "specific section of the conference/meeting"
-location: "Los Alamos, NM"
-venue: "Los Alamos National Laboratory"
-section: "EES-16 Science Café Series"
+location: "Baltimore, MD"
+venue: "Johns Hopkins University"
+section: "Environmental Health & Engineering Seminar"
 tags:
   - Mars
   - methane

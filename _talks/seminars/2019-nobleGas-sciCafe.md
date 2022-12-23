@@ -1,5 +1,5 @@
 ---
-title: "Noble gas diffusion through variably saturated rock – implications for verification of sub- surface nuclear events"
+title: "Noble gas diffusion through variably saturated rock: implications for verification of subsurface nuclear events"
 collection: talks
 type: "Seminar"
 permalink: /talks/2019-nobleGas-sciCafe
