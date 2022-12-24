@@ -2,7 +2,7 @@
 title: 'AGU Fall Meeting 2022, Chicago'
 date: 2022-12-11
 permalink: /posts/2022/12/aguFallMeeting/
-excerpt: "<img src='/images/posts/aguBanner2.jpg' alt='AGUbanner' width='300'>"
+excerpt: "<img src='/images/posts/aguBanner2.jpg' alt='AGUbanner' width='400'>"
 tags:
   - conferences 
   - updates 
@@ -21,5 +21,7 @@ I'll be presenting a poster at the AGU Fall Meeting 2022 in Chicago. It is about
 **Session:** P22F – *The New Mars Underground: Nexus of Decadal Planetary Science Objectives II*
 
 **Title:** Barometric pumping through fractured rock: A mechanism for venting deep underground methane to Mars’ atmosphere
+
+
 
 
