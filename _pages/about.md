@@ -12,42 +12,101 @@ redirect_from:
 
 I am a PhD candidate in Environmental Engineering at Johns Hopkins University. My advisor is Dr. Harihar Rajaram, and my research focuses on simulation of multi-phase fluid flow and transport in porous/fractured media using numerical models. My research is done in collaboration with the Computational Earth Science Group ([EES-16](https://www.lanl.gov/org/ddste/aldcels/earth-environmental-sciences/computational-earth-science/index.php)) at Los Alamos National Laboratory. 
 
-<!-- I was previously a Post-Master's Researcher in EES-16 from 2017-2019.  -->
 
 
-Research Interests
-==================
-planetary science • numerical modeling • hydrogeology • fractures • petroleum geofluids 
-
-For more info about my research areas, see [Research](/research/){: .btn--research}.
-
-
-Education
-=========
+<!-- Research Interests -->
+<!-- ================== -->
+<!-- planetary science • numerical modeling • hydrogeology • fractures • petroleum geofluids  -->
+<!--  -->
+<!-- For more info about my research areas, see [Research](/research/){: .btn--research}. -->
+<!--  -->
+<!--  -->
+<!-- Education -->
+<!-- ========= -->
+  <!-- [> <ul class="fa-ul"> <] -->
+    <!-- [> [> <li><span class="fa-li"><i class="fas fa-spinner fa-pulse"></i></span>Ph.D. Environmental Engineering, 2024 (expected)</li> <] <] -->
+    <!-- [> <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>Ph.D. Environmental Engineering, 2024 (expected)</li> <] -->
+    <!-- [> <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>M.Sc. Hydrogeology, 2017</li> <] -->
+    <!-- [> <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>B.A. (Honors) Earth Science, 2014</li> <] -->
+  <!-- [> </ul> <] -->
+<!--  -->
   <!-- <ul class="fa-ul"> -->
-    <!-- [> <li><span class="fa-li"><i class="fas fa-spinner fa-pulse"></i></span>Ph.D. Environmental Engineering, 2024 (expected)</li> <] -->
-    <!-- <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>Ph.D. Environmental Engineering, 2024 (expected)</li> -->
-    <!-- <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>M.Sc. Hydrogeology, 2017</li> -->
-    <!-- <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>B.A. (Honors) Earth Science, 2014</li> -->
+    <!-- <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span> -->
+        <!-- Ph.D. Environmental Engineering, 2024 (expected) -->
+        <!-- <p style="color:#7a8288"><small>Johns Hopkins University</small></p> -->
+    <!-- </li> -->
+    <!-- <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span> -->
+        <!-- M.Sc. Hydrogeology, 2017 -->
+        <!-- <p style="color:#7a8288"><small>New Mexico Institute of Mining & Technology</small></p> -->
+    <!-- </li> -->
+    <!-- <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span> -->
+        <!-- B.A. (Honors) Earth Science, 2014 -->
+        <!-- <p style="color:#7a8288"><small>Dartmouth College</small></p> -->
+        <!-- [> <p style="color:#808080">Dartmouth College</p> <] -->
+        <!-- [> <p style="color: $lighter-gray">Dartmouth College</p> <] -->
+    <!-- </li> -->
   <!-- </ul> -->
 
-  <ul class="fa-ul">
-    <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
-        Ph.D. Environmental Engineering, 2024 (expected)
-        <p style="color:#7a8288"><small>Johns Hopkins University</small></p>
-    </li>
-    <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
-        M.Sc. Hydrogeology, 2017
-        <p style="color:#7a8288"><small>New Mexico Institute of Mining & Technology</small></p>
-    </li>
-    <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
-        B.A. (Honors) Earth Science, 2014
-        <p style="color:#7a8288"><small>Dartmouth College</small></p>
-        <!-- <p style="color:#808080">Dartmouth College</p> -->
-        <!-- <p style="color: $lighter-gray">Dartmouth College</p> -->
-    </li>
-  </ul>
+<!-- --------------------------- -->
+<!-- TWO-COLUMN FORMAT -->
+<!-- --------------------------- -->
+<html>
+ <head>
+    <style>
+    {
+        box-sizing: border-box;
+    }
+    /* Set additional styling options for the columns*/
+    .column {
+    float: left;
+    width: 50%;
+    }
 
+    .row:after {
+    content: "";
+    display: table;
+    clear: both;
+    }
+    </style>
+ </head>
+ <body>
+    <div class="row">
+        <!-- RESEARCH INTERESTS COLUMN -->
+        <div class="column">
+            <h1 id="research-interests">Research Interests</h1>
+            <li>planetary science</li>
+            <li>numerical modeling</li>
+            <li>hydrogeology</li>
+            <li>fractures</li>
+            <li>petroleum geofluids</li>
+        <br>
+        <p>For more info about my research areas, see <a href="/research/" class="btn--research">Research</a>.</p>
+        <!-- <p>For more info about my research areas, see <button class="button--research">test</button></p> -->
+        <!-- <p>For more info about my research areas, see [Research](/research/){: .btn--research}.</p> -->
+        </div>
+        <!-- EDUCATION COLUMN -->
+        <div class="column">
+            <h1 id="education">Education</h1>
+            <ul class="fa-ul">
+              <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
+                  Ph.D. Environmental Engineering, 2024
+                  <p style="color:#7a8288"><small>Johns Hopkins University</small></p>
+              </li>
+              <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
+                  M.Sc. Hydrogeology, 2017
+                  <p style="color:#7a8288"><small>New Mexico Institute of Mining & Technology</small></p>
+              </li>
+              <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
+                  B.A. (Honors) Earth Science, 2014
+                  <p style="color:#7a8288"><small>Dartmouth College</small></p>
+                  <!-- <p style="color:#808080">Dartmouth College</p> -->
+                  <!-- <p style="color: $lighter-gray">Dartmouth College</p> -->
+              </li>
+            </ul>
+        </div>
+    </div>
+ </body>
+</html>
 
 <!-- <li> -->
   <!-- [> <i class="fa-li fas fa-graduation-cap"></i> <] -->
