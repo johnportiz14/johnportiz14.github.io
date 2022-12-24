@@ -25,12 +25,19 @@ width='500px'>
 *Cartoon schematic of Curiosity measuring methane on the surface of Mars.*
 
 
-This research seeks to move us towards a better of understanding of methane in Mars' atmosphere. It applies some of my previous work in terrestrial [barometric pumping](/research/baro-pumping/) to address the question of underground methane sources on Mars. 
+This research seeks to move us towards a better of understanding of methane in
+Mars' atmosphere. It applies some of my previous work in terrestrial
+[barometric pumping](/research/baro-pumping/) to address the question of
+underground methane sources on Mars. 
 
+# Highlighted Works
 
-## Highlighted Article
+## Article
 
-<b>Ortiz, J. P.</b>, Rajaram, H., Stauffer, P. H., Harp, D. R., Wiens, R. C., & Lewis, K. W. (2022). Barometric Pumping Through Fractured Rock: A Mechanism for Venting Deep Methane to Mars' Atmosphere. <i>Geophysical Research Letters</i>, 49(14), doi:10.1029/2022GL098946.
+<b>Ortiz, J. P.</b>, Rajaram, H., Stauffer, P. H., Harp, D. R., Wiens, R. C., &
+Lewis, K. W. (2022). Barometric Pumping Through Fractured Rock: A Mechanism for
+Venting Deep Methane to Mars' Atmosphere. <i>Geophysical Research Letters</i>,
+49(14), doi:10.1029/2022GL098946.
 
 <!-- > There are many regions that meet the necessary conditions for sovereign governance in the world, but few secessionist conflicts.  -->
 
