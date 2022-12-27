@@ -2,7 +2,7 @@
 title: "Noble gas diffusion through variably-saturated rock: implications for verification of subsurface nuclear events"
 collection: talks
 type: "Poster"
-permalink: /talks/2019-studenSymposium-poster
+permalink: /talks/2019-studentSymposium-poster
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-08-01
 #location: "City, State"

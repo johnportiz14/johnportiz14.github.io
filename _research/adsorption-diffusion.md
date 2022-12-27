@@ -41,7 +41,7 @@ Neil, C. W., Boukhalfa, H., Xu, H., Ware, S. D., <b>Ortiz, J.</b>, Avendaño, S.
 
 Harp, D. R., <b>Ortiz, J. P.</b>, Pandey, S., Karra, S., Anderson, D., Bradley, C., Viswanathan, H., & Stauffer, P. H. (2018). Immobile pore-water storage enhancement and retardation of gas transport in fractured rock. <i>Transport in Porous Media</i>, 124(2), 369-394.
 
-[Page](/publication/publication/2018-immobilePoreWater-harp-tipm){: .btn--research} [Article](https://doi.org/10.1007/s11242-018- 1072-8){: .btn--research} 
+[Page](/publication/2018-immobilePoreWater-harp-tipm){: .btn--research} [Article](https://doi.org/10.1007/s11242-018- 1072-8){: .btn--research} 
 
 ---------
 
@@ -49,4 +49,4 @@ Harp, D. R., <b>Ortiz, J. P.</b>, Pandey, S., Karra, S., Anderson, D., Bradley, 
 
 <b>Ortiz, J. P.</b>. Noble gas diffusion through variably-saturated rock: implications for verification of subsurface nuclear events (2019). <i>LANL Student Symposium</i>.  
 
-[Page](/talks/conference_posters/2019-studentSymposium-poster.md){: .btn--research}
+[Page](/talks/2019-studentSymposium-poster){: .btn--research}

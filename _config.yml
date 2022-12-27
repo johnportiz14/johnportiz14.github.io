@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "John P. Ortiz" #"Your Sidebar Name"
   avatar           : "JohnPhilipOrtiz-cropped.jpg"
-  bio              : "PhD Candidate @ Johns Hopkins"
+  bio              : "PhD Candidate @ Johns Hopkins University"
   location         : #"Location"
   employer         : "Los Alamos National Laboratory"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

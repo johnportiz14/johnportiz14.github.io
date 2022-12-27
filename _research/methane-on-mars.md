@@ -41,7 +41,7 @@ Venting Deep Methane to Mars' Atmosphere. <i>Geophysical Research Letters</i>,
 
 <!-- > There are many regions that meet the necessary conditions for sovereign governance in the world, but few secessionist conflicts.  -->
 
-[Page](/publication/2022-mars-baro-grl){: .btn--research} [Article](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL098946){: .btn--research}  [Supplemental Information](/files/pdf/research/Ortiz et al. - 2022 - SI - Barometric pumping through fractured rock A mechanism for venting deep methane to Mars' atmosphere.pdf){: .btn--research} 
+[Page](/publication/2022-mars-baro-grl){: .btn--research} [Article](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL098946){: .btn--research}  [Supplemental Information](/files/pdf/research/Ortiz et al. - 2022 - SI Barometric Pumping Through Fractured Rock A Mechanism for Venting Deep Methane to Mars' Atmosphere.pdf){: .btn--research} 
 
 This article was also featured on the [cover](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/grl.62460){: .btn--research} of this GRL issue:
 
@@ -59,4 +59,4 @@ width='250px'>
 
 ## Poster
 
-[Page](/talks/conference_posters/2022-baroPumpingMars-agu.md){: .btn--research}
+[Page](/talks/2022-baroPumpingMars-agu){: .btn--research}

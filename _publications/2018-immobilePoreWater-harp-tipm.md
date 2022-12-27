@@ -9,7 +9,7 @@ venue: 'Transport in Porous Media'
 #paperurl: local PDF file ( should be in /files/pdf/research/<filename>.pdf )
 #code: code/data webpage OR Supplementary Info PDF link
 #github: relevant github repo link
-link: 'https://doi.org/10.1007/s11242-018- 1072-8'
+link: 'https://doi.org/10.1007/s11242-018-1072-8'
 paperurl: "/files/pdf/research/Harp et al. - 2018 - Immobile Pore-Water Storage Enhancement and Retardation of Gas Transport in Fractured Rock.pdf"
 citation: "Harp, D. R., <b>Ortiz, J. P.</b>, Pandey, S., Karra, S., Anderson, D., Bradley, C., Viswanathan, H., & Stauffer, P. H. (2018). Immobile pore-water storage enhancement and retardation of gas transport in fractured rock. <i>Transport in Porous Media</i>, 124(2), 369-394."
 ---
