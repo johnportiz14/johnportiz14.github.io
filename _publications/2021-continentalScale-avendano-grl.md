@@ -17,5 +17,5 @@ citation: "Avendaño, S. T., Harp, D. R., Kurwadkar, S., <b>Ortiz, J. P.</b>, & 
 
 <!-- [Download paper here](https://doi.org/10.1029/2021GL093875) -->
 
-
-
+**Abstract:**
+> Barometric pumping is a gas transport mechanism that has important implications for many applications involving subsurface gas seepage processes. This study provides the first continental-scale analysis of barometric-pumping efficiency potential based on meteorology. We quantified the barometric-pumping efficiency potential at 1,257 locations across the continental US and Canada. The results provide continental-scale geographic dependencies of barometric-pumping efficiency potential, indicating a significant correlation with latitude and a nonlinear dependence on longitude. The analysis also indicates that variability in barometric-pumping efficiency potential decreases with distance from the coast and as elevation increases. Locations far from the coastline are more likely to have upper mid-range potentials, while higher elevation locations are more likely to have low potentials. The highest barometric-pumping efficiency potentials are mostly found around the Gulf of St. Lawrence around 50°N. Locations along the Atlantic coast exhibit large-scale variations in potentials with a clear increasing trend with latitude.

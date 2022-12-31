@@ -16,3 +16,6 @@ citation: "Stauffer, P. H., Rahn, T., <b>Ortiz, J. P.</b>, Salazar, L. J., Boukh
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
 <!-- [Download paper here](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2019GL082394) -->
+
+**Abstract:**
+> Barometric pumping caused by atmospheric pressure fluctuations contributes to the motion of gases in the vadose zone. While the resulting gas transport is often negligible in unfractured porous rocks, rates of transport in fractured media can be significant. Deep atmospheric pumping has implications for nuclear gas detection, water balance, and contaminant transport. We present results from a tracer test conducted to characterize deep subsurface fractured basalt and investigate the effects of barometric pumping on gaseous contaminant mobility. The tracer test provides data to constrain permeability, porosity, and diffusivity in a numerical representation of the experiment. A numerical model is used to simulate gas flow and dispersive transport under fluctuating pressure conditions. Tracer test and simulation results suggest that barometric pumping induces 10 to 100 times more mixing in the basalt than predicted by gas diffusion alone. Within the basalt fractures, estimates of gas velocity reach maximums of nearly 1,000 m/day.
