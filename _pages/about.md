@@ -95,19 +95,34 @@ at Los Alamos National Laboratory.
             <h1 id="education">Education</h1>
             <ul class="fa-ul">
               <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
-                  Ph.D. Environmental Engineering, 2024
-                  <p style="color:#7a8288"><small>Johns Hopkins University</small></p>
+                  Johns Hopkins University, 2024
+                  <p style="color:#7a8288"><small>Ph.D. Environmental Engineering</small></p>
               </li>
               <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
-                  M.Sc. Hydrogeology, 2017
-                  <p style="color:#7a8288"><small>New Mexico Institute of Mining & Technology</small></p>
+                  New Mexico Tech, 2017
+                  <!-- New Mexico Institute of Mining & Technology, 2017 -->
+                  <p style="color:#7a8288"><small>M.Sc. Hydrogeology</small></p>
               </li>
               <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
-                  B.A. (Honors) Earth Science, 2014
-                  <p style="color:#7a8288"><small>Dartmouth College</small></p>
+                  Dartmouth College, 2014
+                  <p style="color:#7a8288"><small>B.A. (Honors) Earth Science</small></p>
                   <!-- <p style="color:#808080">Dartmouth College</p> -->
                   <!-- <p style="color: $lighter-gray">Dartmouth College</p> -->
               </li>
+              <!-- <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span> -->
+                  <!-- Ph.D. Environmental Engineering, 2024 -->
+                  <!-- <p style="color:#7a8288"><small>Johns Hopkins University</small></p> -->
+              <!-- </li> -->
+              <!-- <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span> -->
+                  <!-- M.Sc. Hydrogeology, 2017 -->
+                  <!-- <p style="color:#7a8288"><small>New Mexico Institute of Mining & Technology</small></p> -->
+              <!-- </li> -->
+              <!-- <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span> -->
+                  <!-- B.A. (Honors) Earth Science, 2014 -->
+                  <!-- <p style="color:#7a8288"><small>Dartmouth College</small></p> -->
+                  <!-- [> <p style="color:#808080">Dartmouth College</p> <] -->
+                  <!-- [> <p style="color: $lighter-gray">Dartmouth College</p> <] -->
+              <!-- </li> -->
             </ul>
         </div>
     </div>
