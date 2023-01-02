@@ -77,7 +77,7 @@ at Los Alamos National Laboratory.
  </head>
  <body>
     <div class="row">
-        <!-- RESEARCH INTERESTS COLUMN -->
+        <!-- RESEARCH INTERESTS COLUMN (LEFT)-->
         <div class="column">
             <h1 id="research-interests">Research Interests</h1>
             <li>planetary science</li>
@@ -90,7 +90,7 @@ at Los Alamos National Laboratory.
         <!-- <p>For more info about my research areas, see <button class="button--research">test</button></p> -->
         <!-- <p>For more info about my research areas, see [Research](/research/){: .btn--research}.</p> -->
         </div>
-        <!-- EDUCATION COLUMN -->
+        <!-- EDUCATION COLUMN (RIGHT)-->
         <div class="column">
             <h1 id="education">Education</h1>
             <ul class="fa-ul">

@@ -10,6 +10,9 @@
 # and Javascript for a standalone cluster map.
 #
 # Requires: glob, getorg, geopy
+#
+# NOTE: [JPO] may need to do `conda deactivate & conda activate py39` to avoid
+#       getorg import issue (magicnumber...)
 
 import glob
 import getorg

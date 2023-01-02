@@ -3,7 +3,7 @@ title: "Interannual Sandbar Variability within the Columbia River Littoral Cell"
 collection: talks
 type: "Poster"
 permalink: /talks/2013-interranualSandbar-agu
-date: 2013-12-01
+date: 2013-12-10
 #location: "City, State"
 #venue: "Name of Conference/Meeting"
 #section: "specific section of the conference/meeting"
