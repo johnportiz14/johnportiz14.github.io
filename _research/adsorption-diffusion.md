@@ -47,6 +47,6 @@ Harp, D. R., <b>Ortiz, J. P.</b>, Pandey, S., Karra, S., Anderson, D., Bradley, 
 
 ## Posters
 
-<b>Ortiz, J. P.</b>. Noble gas diffusion through variably-saturated rock: implications for verification of subsurface nuclear events (2019). <i>LANL Student Symposium</i>.  
+<b>Ortiz, J. P.</b> (2019). Noble gas diffusion through variably-saturated rock: implications for verification of subsurface nuclear events. <i>LANL Student Symposium</i>.  
 
 [Page](/talks/2019-studentSymposium-poster){: .btn--research}

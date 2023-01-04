@@ -59,4 +59,6 @@ width='250px'>
 
 ## Poster
 
+<b>Ortiz, J. P.</b> (2022). Barometric pumping through fractured rock: A mechanism for venting deep underground methane to Mars’ atmosphere. <i>AGU Fall Meeting 2022</i>. 
+
 [Page](/talks/2022-baroPumpingMars-agu){: .btn--research}
