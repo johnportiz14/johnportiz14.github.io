@@ -9,7 +9,7 @@ header:
 
 The overarching theme in my research is flow and transport of fluids/tracers through fractured rock. 
 
-
+If you would like to reach to me about potential collaboration, please use my email provided in the sidebar.
 
 <nbsp>
 
