@@ -1,7 +1,8 @@
 ---
 title: "Methane on Mars"
 layout: single-portfolio
-excerpt: "<img src='/images/research/curiositySlice_posterLarge_noSky_wFractures-01.png' alt='Cartoon of Curiosity measuring methane on the surface of Mars'>"
+#excerpt: "<img src='/images/research/curiositySlice_posterLarge_noSky_wFractures-01.png' alt='Cartoon of Curiosity measuring methane on the surface of Mars'>"
+excerpt: "<img src='/images/research/curiositySlice.gif' alt='Cartoon gif of Curiosity measuring methane on the surface of Mars'>"
 collection: research
 author_profile: true
 order_number: 10
