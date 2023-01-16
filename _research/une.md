@@ -1,7 +1,7 @@
 ---
 title: "UNE Detection"
 layout: single-portfolio
-excerpt: "<img src='/images/research/une_subsurface_iso-01.png' alt='UNE cartoon'>"
+excerpt: "<img src='/images/research/explosion_full_iso.gif' alt='UNE cartoon animation'>"
 collection: research
 author_profile: true
 order_number: 20
@@ -17,11 +17,12 @@ tags:
 
 
 <!-- <div style="text-align: center;"> -->
-<img src='/images/research/une_subsurface_iso-01.png'
+<!-- <img src='/images/research/une_subsurface_iso-01.png' -->
+<img src='/images/research/explosion_full_iso.gif'
 width='500px'>
 <!-- </div> -->
 
-*Cartoon schematic showing the UNE cavity created by the blast and the subsequent transport of radionuclide gases out of the cavity and into the rock fractures.*
+*Cartoon animation showing the UNE cavity created by the blast and the subsequent transport of radionuclide gases out of the cavity and into the rock fractures. &copy; John P. Ortiz 2023.*
 
 Noble gas transport through geologic media has important applications in the characterization of underground nuclear explosions (UNEs). Noble gases produced by nuclear fission are hard to contain and tend to migrate to the surface where they can be detected via atmospheric monitoring, making them key components for compliance monitoring for the comprehensive nuclear-test-ban treaty (CTBT). 
 

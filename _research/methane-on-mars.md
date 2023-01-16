@@ -23,7 +23,7 @@ tags:
 <img src='/images/research/curiositySlice_posterLarge_noSky_wFractures-01.png' 
 width='500px'>
 
-*Cartoon schematic of Curiosity measuring methane on the surface of Mars.*
+*Cartoon schematic of Curiosity measuring methane on the surface of Mars. &copy; John P. Ortiz 2022.*
 
 
 This research seeks to move us towards a better of understanding of methane in

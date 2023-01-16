@@ -25,7 +25,7 @@ tags:
    width='500px'>
 <!-- </div> -->
   
-*Animation showing the temperature dependence of gas particle adsorption onto rock/soil walls within a fracture or pore.*
+*Animation showing the temperature dependence of gas particle adsorption onto rock/soil walls within a fracture or pore. &copy; John P. Ortiz 2022.*
 
 Adsorption is the adhesion of atoms, ions or molecules from a gas, liquid or dissolved solid to a surface. As a result, adsorption is a process that retards contaminant transport through porous media, so it is important for us to understand for a variety of applications. 
 
