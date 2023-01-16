@@ -1,7 +1,7 @@
 ---
 title: "Barometric pumping"
 layout: single-portfolio
-excerpt: "<img src='/images/research/barom_pumping_concept_COMPLEX_v2_simpler.png'>"
+excerpt: "<img src='/images/research/barom_pumping_concept_COMPLEX_v2_simpler_smaller.png'>"
 collection: research
 author_profile: true
 order_number: 40
