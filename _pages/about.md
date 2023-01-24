@@ -13,8 +13,8 @@ redirect_from:
 I am a PhD candidate in Environmental Engineering at Johns Hopkins University.
 My advisor is Dr. Harihar Rajaram, and my research focuses on simulation of
 multi-phase fluid flow and transport in porous/fractured media using numerical
-models. My research is done in collaboration with the Computational Earth
-Science Group
+models. My research is done in collaboration with the Energy and Earth System
+Science Group (previously called Computational Earth Science)
 ([EES-16](https://www.lanl.gov/org/ddste/aldcels/earth-environmental-sciences/computational-earth-science/index.php))
 at Los Alamos National Laboratory. 
 
