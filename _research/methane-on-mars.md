@@ -24,7 +24,8 @@ tags:
 <img src='/images/research/curiositySlice.gif' 
 width='500px'>
 
-*Cartoon diagram of Curiosity measuring methane on the surface of Mars. Copyright &copy; John P. Ortiz 2022.*
+*Cartoon diagram of Curiosity measuring methane on the surface of Mars.<br>
+Copyright &copy; John P. Ortiz 2022.*
 
 
 This research seeks to move us towards a better of understanding of methane in
