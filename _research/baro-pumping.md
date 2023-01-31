@@ -14,7 +14,7 @@ tags:
 <img src='/images/research/barom_pumping_concept_COMPLEX_v2_simpler.png'
 width='500px'>
 
-*Schematic diagram showing how barometric pumping creates a ratcheting mechanism that brings gas from underground to the surface. &copy; John P. Ortiz 2018.*
+*Schematic diagram showing how barometric pumping creates a ratcheting mechanism that brings gas from underground to the surface. Copyright &copy; John P. Ortiz 2018.*
 
 Weather systems have associated changes in atmospheric pressure. Storm systems bring low pressure and blue skies bring high pressure. These changes in pressure are also imposed on the soils and rocks beneath our feet. If the soils and rocks have sufficient open pore space or well‐connected fractures, atmospheric pressure changes can drive air into or pull air out of these geologic materials. This phenomenon is known as barometric pumping. Barometric pumping can accelerate the migration of natural or man‐made gases.
 

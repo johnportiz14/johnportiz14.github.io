@@ -22,7 +22,7 @@ tags:
 width='500px'>
 <!-- </div> -->
 
-*Cartoon animation showing the UNE cavity created by the blast and the subsequent transport of radionuclide gases out of the cavity and into the rock fractures. &copy; John P. Ortiz 2023.*
+*Cartoon animation showing the UNE cavity created by the blast and the subsequent transport of radionuclide gases out of the cavity and into the rock fractures. Copyright &copy; John P. Ortiz 2023.*
 
 Noble gas transport through geologic media has important applications in the characterization of underground nuclear explosions (UNEs). Noble gases produced by nuclear fission are hard to contain and tend to migrate to the surface where they can be detected via atmospheric monitoring, making them key components for compliance monitoring for the comprehensive nuclear-test-ban treaty (CTBT). 
 
