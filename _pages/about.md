@@ -158,21 +158,24 @@ at Los Alamos National Laboratory.
 <!-- </li> -->
 
 
-<!-- Updates -->
-<!-- ------- -->
-<!--  -->
-<!-- [> ![AGUbanner](/images/posts/aguBanner2.jpg) <] -->
-<!-- <img src="/images/posts/aguBanner2.jpg" alt="AGUbanner" width="500px"/> -->
-<!--  -->
-<!-- Come stop by my poster at the AGU Fall Meeting 2022!  -->
-<!--  -->
-<!-- **When:** Tuesday December 13th &nbsp;&nbsp; \| &nbsp;&nbsp; 9am - 12:30pm -->
-<!--  -->
-<!-- **Where:** Hall A -->
-<!--  -->
-<!-- **Session:** P22F – *The New Mars Underground: Nexus of Decadal Planetary Science Objectives II* -->
-<!--  -->
-<!-- **Title:** Barometric pumping through fractured rock: A mechanism for venting deep underground methane to Mars’ atmosphere -->
+
+
+Updates
+-------
+
+<!-- Posts the except of 1 featured post from "Posts" -->
+<!-- (use featured: true in the front matter) -->
+<ul>
+  {% assign featuredposts = site.posts | where:'featured','true' %}
+  {% for post in featuredposts limit:1 %}
+  <!-- <li> -->
+    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <br>
+    {{ post.excerpt }}
+  <!-- </li> -->
+  {% endfor %}
+</ul>
+
 
 
 <!-- -------------------------------------------------- -->
@@ -217,5 +220,6 @@ at Los Alamos National Laboratory.
 <!-- For more info -->
 <!-- ------ -->
 <!-- More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+
 
 
