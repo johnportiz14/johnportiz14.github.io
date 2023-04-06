@@ -17,10 +17,12 @@ featured: true
 
 I will be delivering a seminar talk for the New Mexico Tech EES Dept. & NM Bureau of Geology and Mineral Resources seminar series. The talk will feature results from a recent, previously-published article on Mars methane variations, as well as exciting new developments in this area. 
 
+Due to a facilities change, the talk will now be fully remote at the link provided below.  
+
 
 **When:** Friday April 7th &nbsp;&nbsp; \| &nbsp;&nbsp; 12 - 1pm  
 
-**Where:** New Mexico Tech EES Auditorium
+**Where:** [Zoom](https://zoom.us/j/99880495832){: .btn--research} 
 
 **Title:**  The Mars Underground: Characterizing subsurface methane seepage on the Red Planet
 

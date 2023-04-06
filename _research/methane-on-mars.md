@@ -60,6 +60,13 @@ width='250px'>
 <!-- Rob Williams. "Keeping a Lid on it: How Government efforts to Prevent Secession Attempts can Fail." Presented at the International Studies Association Annual Convention, Toronto, ON, March 2019. -->
 >
 
+## Talks
+
+<b>Ortiz, J. P.</b> (2023). The Mars Underground: Characterizing methane seepage on the Red Planet. <i>NMT EES & NMBGS Seminar Series</i>.
+
+[Page](/talks/2023-marsUnderground-NMT){: .btn--research}
+[Post](/posts/2023/4/nmtBureauSeminar/){: .btn--research}
+
 ## Poster
 
 <b>Ortiz, J. P.</b> (2022). Barometric pumping through fractured rock: A mechanism for venting deep underground methane to Mars’ atmosphere. <i>AGU Fall Meeting 2022</i>. 
