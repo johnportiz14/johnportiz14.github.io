@@ -62,6 +62,11 @@ width='250px'>
 
 ## Talks
 
+<b>Ortiz, J. P.</b> (2023). The Mars Underground: Characterizing methane seepage on the Red Planet. <i>Los Alamos Geological Society</i>.
+
+[Page](/talks/2023-marsUnderground-lags){: .btn--research}
+[Post](/posts/2023/4/lagsMeeting/){: .btn--research}
+
 <b>Ortiz, J. P.</b> (2023). The Mars Underground: Characterizing methane seepage on the Red Planet. <i>NMT EES & NMBGS Seminar Series</i>.
 
 [Page](/talks/2023-marsUnderground-NMT){: .btn--research}

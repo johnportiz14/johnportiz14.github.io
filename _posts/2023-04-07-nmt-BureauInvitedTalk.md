@@ -1,14 +1,15 @@
 ---
-title: 'Invited talk at NMT EES & NM Bureau of Geology Seminar Series'
+title: 'Upcoming talk at NMT EES & NM Bureau of Geology Seminar Series'
 date: 2023-04-03
 permalink: /posts/2023/4/nmtBureauSeminar/
-excerpt_separator: <!--more-->
+#excerpt_separator: <!--more-->
 tags:
   - conferences 
   - updates 
   - Mars
   - planetary science
 featured: true
+excerpt: "<img src='/images/posts/nmtBureau_walkoutSlide.png' alt='NMT-talkBanner' width='500px'/>"
 ---
 <!-- excerpt: "<img src='/images/posts/nmtBureau_walkoutSlide.png' alt='NMT-talkBanner' width='500px'/>" -->
 
@@ -28,7 +29,7 @@ Due to a facilities change, the talk will now be fully remote at the link provid
 
 <!-- ![NMT-talkBanner](/images/posts/nmtBureau_walkoutSlide.png) -->
 
-<img src="/images/posts/nmtBureau_walkoutSlide.png" alt="NMT-talkBanner" width="500px"/>
+<!-- <img src="/images/posts/nmtBureau_walkoutSlide.png" alt="NMT-talkBanner" width="500px"/> -->
 
 <!-- Excerpt this whole post: -->
 <!-- more -->
