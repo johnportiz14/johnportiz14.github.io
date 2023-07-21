@@ -160,19 +160,19 @@ at Los Alamos National Laboratory.
 
 
 
-Updates
--------
-
-<!-- Posts the except of 1 featured post from "Posts" -->
-<!-- (use featured: true in the front matter) -->
+<!-- Updates -->
+<!-- ------- -->
+<!--  -->
+<!-- [> Posts the excerpt of 1 featured post from "Posts" <] -->
+<!-- [> (use featured: true in the front matter) <] -->
 <ul>
   {% assign featuredposts = site.posts | where:'featured','true' %}
-  {% for post in featuredposts limit:1 %}
-  <!-- <li> -->
+  {% for post in featuredposts limit:0 %}
+  <li>
     <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
     <br>
     {{ post.excerpt }}
-  <!-- </li> -->
+  </li>
   {% endfor %}
 </ul>
 

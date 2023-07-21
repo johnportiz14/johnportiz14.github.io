@@ -8,7 +8,7 @@ tags:
   - presentations
   - Mars
   - planetary science
-featured: true
+featured: true 
 ---
 <!-- excerpt: "<img src='/images/posts/nmtBureau_walkoutSlide.png' alt='NMT-talkBanner' width='500px'/>" -->
 
