@@ -14,7 +14,7 @@ featured: true
 
 <!-- NOTE: the featured callout in front matter allows the post to appear automatically on the ABOUT page if enabled there. -->
 <!-- NOTE: the except_separator in the front matter allows you to manually specify how much of the post is included in the except (in this case, everything between the ``more`` callout. -->
-<img src="/images/posts/lags_walkoutSlide.png" alt="LAGS-talkBanner" width="500px"/>
+<!-- <img src="/images/posts/lags_walkoutSlide.png" alt="LAGS-talkBanner" width="500px"/> -->
 
 I will be delivering a talk for the April meeting of the Los Alamos Geological
 Society (LAGS). The talk will feature results from a recent,

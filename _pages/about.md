@@ -169,11 +169,11 @@ Updates
 <ul>
   {% assign featuredposts = site.posts | where:'featured','true' %}
   {% for post in featuredposts limit:1 %}
-  <li>
+  <!-- <li> -->
     <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
     <br>
     {{ post.excerpt }}
-  </li>
+  <!-- </li> -->
   {% endfor %}
 </ul>
 
