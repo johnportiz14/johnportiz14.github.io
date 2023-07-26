@@ -1,6 +1,6 @@
 ---
 title: "Upcoming poster presentation at LANL Student Symposium"
-date: 2023-08-01
+date: 2023-08-02
 permalink: /posts/2023/8/studentSymposium/
 excerpt_separator: <!--more-->
 tags:
@@ -14,14 +14,14 @@ featured: true
 
 <!-- NOTE: the featured callout in front matter allows the post to appear automatically on the ABOUT page if enabled there. -->
 <!-- NOTE: the except_separator in the front matter allows you to manually specify how much of the post is included in the except (in this case, everything between the ``more`` callout. -->
-<!-- <img src="/images/posts/lags_walkoutSlide.png" alt="LAGS-talkBanner" width="500px"/> -->
+<img src="/images/posts/symposiumFlyer2023.png" alt="symposiumFlyerBanner" width="300px"/>
 
 I will be delivering a poster presentation at the LANL Student Symposium. 
 
 
-**When:** Tuesday August 1st 2023 &nbsp;&nbsp; \| &nbsp;&nbsp; TBD 
+**When:** Wednesday August 2nd 2023 &nbsp;&nbsp; \| &nbsp;&nbsp; 9:00 - 16:00 
 
-**Where:** J. Robert Oppenheimer Research Library
+**Where:** J. Robert Oppenheimer Research Library, Jemez/Cochiti Room (Poster 22)
 <!-- [Zoom](https://zoom.us/j/99880495832){: .btn--research} --> 
 
 **Title:** Sub-diurnal methane variations driven by barometric pumping and planetary boundary layer dynamics 
