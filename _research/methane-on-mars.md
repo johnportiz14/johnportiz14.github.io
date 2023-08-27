@@ -62,6 +62,12 @@ width='250px'>
 
 ## Talks
 
+<b>Ortiz, J. P.</b> (2023). The Mars Underground: Characterizing methane seepage on the Red Planet. <i>LANL CSES Symposium</i>.
+
+[Page](/talks/2023-csesSymposium-mars/){: .btn--research}
+[Post](/posts/2023/8/csesSymposium-talk/){: .btn--research}
+
+
 <b>Ortiz, J. P.</b> (2023). The Mars Underground: Characterizing methane seepage on the Red Planet. <i>Los Alamos Geological Society</i>.
 
 [Page](/talks/2023-marsUnderground-lags){: .btn--research}
@@ -72,8 +78,16 @@ width='250px'>
 [Page](/talks/2023-marsUnderground-NMT){: .btn--research}
 [Post](/posts/2023/4/nmtBureauSeminar/){: .btn--research}
 
-## Poster
+## Posters
+
+<b>Ortiz, J. P.</b> (2023). Sub-diurnal methane variations on Mars driven by barometric pumping and planetary boundary layer evolution. <i>LANL Student Symposium</i>.
+
+[Page](/talks/2023-studentSymposium-poster){: .btn--research}
+[Post](/posts/2023/8/studentSymposium/){: .btn--research}
 
 <b>Ortiz, J. P.</b> (2022). Barometric pumping through fractured rock: A mechanism for venting deep underground methane to Mars’ atmosphere. <i>AGU Fall Meeting 2022</i>. 
 
 [Page](/talks/2022-baroPumpingMars-agu){: .btn--research}
+[Post 1](/posts/2022/12/aguFallMeeting/){: .btn--research}
+[Post 2](/posts/2022/12/aguRecap/){: .btn--research}
+
