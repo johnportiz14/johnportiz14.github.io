@@ -35,7 +35,7 @@ underground methane sources on Mars.
 
 # Highlighted Works
 
-## Article
+## Articles
 
 <b>Ortiz, J. P.</b>, Rajaram, H., Stauffer, P. H., Harp, D. R., Wiens, R. C., &
 Lewis, K. W. (2022). Barometric Pumping Through Fractured Rock: A Mechanism for
@@ -61,6 +61,11 @@ width='250px'>
 >
 
 ## Talks
+
+<b>Ortiz, J. P.</b> (2023). Sub-Diurnal Methane Variations on Mars Driven by Barometric Pumping and Planetary Boundary Layer Evolution. <i>AGU Fall Meeting 2023</i>.
+
+[Page](/talks/2023-marsJGR-agu/){: .btn--research}
+[Post](/posts/2023/12/aguConference-talk){: .btn--research}
 
 <b>Ortiz, J. P.</b> (2023). The Mars Underground: Characterizing methane seepage on the Red Planet. <i>LANL CSES Symposium</i>.
 
