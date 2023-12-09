@@ -2,7 +2,7 @@
 title: 'Upcoming talk for April meeting of Los Alamos Geological Society' 
 date: 2023-04-10
 permalink: /posts/2023/4/lagsMeeting/
-excerpt_separator: <!--more-->
+#excerpt_separator: <!--more-->
 tags:
   - updates 
   - presentations

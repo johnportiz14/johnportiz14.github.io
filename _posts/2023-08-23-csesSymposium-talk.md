@@ -2,7 +2,7 @@
 title: "Upcoming talk at CSES Symposium"
 date: 2023-08-23
 permalink: /posts/2023/8/csesSymposium-talk/
-excerpt_separator: <!--more-->
+#excerpt_separator: <!--more-->
 tags:
   - updates 
   - presentations

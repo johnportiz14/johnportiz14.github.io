@@ -2,19 +2,20 @@
 title: "Upcoming poster presentation at LANL Student Symposium"
 date: 2023-08-02
 permalink: /posts/2023/8/studentSymposium/
-excerpt_separator: <!--more-->
+#excerpt_separator: <!--more-->
 tags:
   - updates 
   - presentations
   - Mars
   - planetary science
 featured: true 
+excerpt: "<img src='/images/posts/symposiumFlyer2023.png' alt='symposiumFlyerBanner' width='300px'/>"
 ---
 <!-- excerpt: "<img src='/images/posts/nmtBureau_walkoutSlide.png' alt='NMT-talkBanner' width='500px'/>" -->
 
 <!-- NOTE: the featured callout in front matter allows the post to appear automatically on the ABOUT page if enabled there. -->
 <!-- NOTE: the except_separator in the front matter allows you to manually specify how much of the post is included in the except (in this case, everything between the ``more`` callout. -->
-<img src="/images/posts/symposiumFlyer2023.png" alt="symposiumFlyerBanner" width="300px"/>
+<!-- <img src="/images/posts/symposiumFlyer2023.png" alt="symposiumFlyerBanner" width="300px"/> -->
 
 I will be delivering a poster presentation at the LANL Student Symposium. 
 
