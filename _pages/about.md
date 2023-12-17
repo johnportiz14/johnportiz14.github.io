@@ -160,15 +160,16 @@ at Los Alamos National Laboratory. [LANL Expertise Profile](https://lanlexperts.
 
 
 
-Updates
--------
-
-<!-- [> Posts the excerpt of 1 featured post from "Posts" <] -->
-<!-- [> (use featured: true in the front matter) <] -->
-<!-- [> If you don't want any posts, change limit to limit:0 <] -->
+<!-- Updates -->
+<!-- ------- -->
+<!-- -------------------------------------------------------------------- -->
+<!-- Posts the excerpt of 1 featured post from "Posts" -->
+<!-- (use featured: true in the front matter) -->
+<!-- If you don't want any posts, change limit to limit:0 -->
+<!-- -------------------------------------------------------------------- -->
 <ul>
   {% assign featuredposts = site.posts | where:'featured','true' %}
-  {% for post in featuredposts limit:1 %}
+  {% for post in featuredposts limit:0 %}
  <!-- <li> -->
     <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
     <br>
