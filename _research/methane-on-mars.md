@@ -37,6 +37,15 @@ underground methane sources on Mars.
 
 ## Articles
 
+<b>Ortiz, J. P.</b>, Rajaram, H., Stauffer, P. H., Lewis, K. W., Wiens, R. C., &
+Harp, D. R. (2024). Sub-diurnal methane variations on Mars driven by
+barometric pumping and planetary boundary layer evolution.  <i>Journal of
+Geophysical Research: Planets</i>. 129, e2023JE008043. doi:10.1029/2023JE008043.
+
+[Page](/publication/2024-mars-jgr){: .btn--research} [Article](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JE008043){: .btn--research} [Code](https://doi.org/10.5281/zenodo.10455952){: .btn--research} 
+<!-- [Supplemental Information](/files/pdf/research/Ortiz et al. - 2022 - SI Barometric Pumping Through Fractured Rock A Mechanism for Venting Deep Methane to Mars' Atmosphere.pdf){: .btn--research}  -->
+
+
 <b>Ortiz, J. P.</b>, Rajaram, H., Stauffer, P. H., Harp, D. R., Wiens, R. C., &
 Lewis, K. W. (2022). Barometric Pumping Through Fractured Rock: A Mechanism for
 Venting Deep Methane to Mars' Atmosphere. <i>Geophysical Research Letters</i>,
