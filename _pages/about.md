@@ -160,8 +160,8 @@ at Los Alamos National Laboratory. [LANL Expertise Profile](https://lanlexperts.
 
 
 
-<!-- Updates -->
-<!-- ------- -->
+Updates
+=======
 <!-- -------------------------------------------------------------------- -->
 <!-- Posts the excerpt of 1 featured post from "Posts" -->
 <!-- (use featured: true in the front matter) -->
@@ -169,9 +169,12 @@ at Los Alamos National Laboratory. [LANL Expertise Profile](https://lanlexperts.
 <!-- -------------------------------------------------------------------- -->
 <ul>
   {% assign featuredposts = site.posts | where:'featured','true' %}
-  {% for post in featuredposts limit:0 %}
+  {% for post in featuredposts limit:1 %}
  <!-- <li> -->
     <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+
+    <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{post.date | date: "%B %d, %Y" }}
+
     <br>
     {{ post.excerpt }}
   <!-- </li> -->

@@ -12,7 +12,7 @@ github:  "https://doi.org/10.5281/zenodo.10455952"
 link: "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JE008043"
 #paperurl: "/files/pdf/research/Ortiz et al. - 2022 - Barometric pumping through fractured rock A mechanism for venting deep methane to Mars' atmosphere.pdf"
 #code: "/files/pdf/research/Ortiz et al. - 2022 - SI Barometric Pumping Through Fractured Rock A Mechanism for Venting Deep Methane to Mars' Atmosphere.pdf"
-##paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL098946'
+paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023JE008043'
 citation: "<b>Ortiz, J. P.</b>, Rajaram, H., Stauffer, P. H., Lewis, K. W., Wiens, R. C., &
 Harp, D. R. (2024). Sub-diurnal methane variations on Mars driven by
 barometric pumping and planetary boundary layer evolution.  <i>Journal of
