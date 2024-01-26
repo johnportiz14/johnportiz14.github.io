@@ -14,6 +14,8 @@ featured: true
 
 <img src='/images/posts/agu23_canva_post_twitter.png' alt='AGU-banner' width='750px'/>
 
+<!-- Excerpt this whole post: -->
+<!-- more -->
 
 <!-- NOTE: the featured callout in front matter allows the post to appear automatically on the ABOUT page if enabled there. -->
 <!-- NOTE: the except_separator in the front matter allows you to manually specify how much of the post is included in the except (in this case, everything between the ``more`` callout. -->
@@ -47,8 +49,7 @@ methane samples in order to constrain diurnal and seasonal methane fluctuations.
 
 
 
-<!-- Excerpt this whole post: -->
-<!-- more -->
+
 
 
 
