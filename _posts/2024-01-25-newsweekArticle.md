@@ -1,6 +1,6 @@
 ---
 title: "Article in Newsweek"
-date: 2024-01-24
+date: 2024-01-25
 permalink: /posts/2024/1/newsweekArticle
 excerpt_separator: <!--more-->
 tags:

@@ -76,7 +76,7 @@ width='250px'>
 [Post](/posts/2024/1/newsweekArticle){: .btn--research}
 
 "Study Predicts Best Times for Rover to Sample Mars Methane in Search for Life". <b><i>Johns Hopkins University Engineering News</i></b>, 26 January 2024.
-[Article Link](https://engineering.jhu.edu/news/study- predicts-best-times-for-rover-to-sample-mars-methane-in-search-for-life/){: .btn--research}
+[Article Link](https://engineering.jhu.edu/news/study-predicts-best-times-for-rover-to-sample-mars-methane-in-search-for-life/){: .btn--research}
 
 "Atmospheric pressure changes could be driving Mars’ elusive methane pulses". <b><i>LANL News Stories</i></b>, 24 January 2024.
 [Article Link](https://discover.lanl.gov/news/0124-mars-methane-pulses/){: .btn--research}

@@ -169,9 +169,9 @@ Updates
 <!-- -------------------------------------------------------------------- -->
 <ul>
   {% assign featuredposts = site.posts | where:'featured','true' %}
-  {% for post in featuredposts limit:2 %}
+  {% for post in featuredposts limit:3 %}
  <!-- <li> -->
-    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 
     <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{post.date | date: "%B %d, %Y" }}
 
