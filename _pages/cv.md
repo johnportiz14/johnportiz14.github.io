@@ -18,7 +18,7 @@ Education
 ======
 * B.A. in Earth Sciences, Dartmouth College, 2014
 * M.Sc. in Hydrogeology, New Mexico Institute of Mining & Technology, 2017 
-* Ph.D. in Environmental Engineering, Johns Hopkins University, 2024 (expected)
+* Ph.D. in Environmental Engineering, Johns Hopkins University, 2024
 
 <!-- Work experience -->
 <!-- ====== -->
