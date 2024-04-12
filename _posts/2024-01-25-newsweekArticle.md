@@ -15,7 +15,9 @@ featured: true
 
 <img src='/images/posts/newsweek-logo.png' alt='newsweek-logo' width='650px'/>
 
+
 [Article Link](https://www.newsweek.com/mystery-mars-burp-belch-methane-search-life-1863907){: .btn--research}
+
 
 <!--more-->
 

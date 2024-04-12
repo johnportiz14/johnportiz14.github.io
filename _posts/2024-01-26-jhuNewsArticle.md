@@ -9,7 +9,7 @@ tags:
   - Mars
   - planetary science
   - news
-featured: true 
+featured: false #true 
 #excerpt: "<img src='/images/posts/nmtBureau_walkoutSlide.png' alt='NMT-talkBanner' width='500px'/>"
 ---
 

@@ -15,6 +15,7 @@ tags:
   - methane
   - planetary science
   - barometric pumping
+  - public outreach
 ---
 
 <!-- excerpt: "<img src='/images/posts/nmtBureau_walkoutSlide.png' alt='NMT-talkBanner' width='500px'/>" -->

@@ -8,6 +8,7 @@ tags:
   - presentations
   - Mars
   - planetary science
+  - public outreach
 featured: true 
 ---
 <!-- excerpt: "<img src='/images/posts/nmtBureau_walkoutSlide.png' alt='NMT-talkBanner' width='500px'/>" -->
