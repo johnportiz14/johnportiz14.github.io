@@ -10,15 +10,38 @@ redirect_from:
 
 
 
-I am a PhD candidate in Environmental Engineering at Johns Hopkins University,
-and my advisor is Dr. Harihar Rajaram. My 
-[research](/research/){: .btn--research} 
-focuses on simulation of multi-phase fluid flow and transport
-in porous/fractured media using numerical models. My research is done in
-collaboration with the Energy and Natural Resources Security Group (previously
-called Computational Earth Science)
-([EES-16](https://www.lanl.gov/org/ddste/aldcels/earth-environmental-sciences/computational-earth-science/index.php))
-at Los Alamos National Laboratory. [LANL Expertise Profile](https://lanlexperts.elsevierpure.com/en/persons/john-philip-ortiz)
+<!-- I am a PhD candidate in Environmental Engineering at Johns Hopkins University, -->
+<!-- and my advisor is Dr. Harihar Rajaram.  -->
+
+Welcome to my webpage!
+
+I am a researcher at Los Alamos National Laboratory
+([LANL](https://www.lanl.gov/)) in the Energy and Natural Resources Security
+Group
+([EES-16](https://www.lanl.gov/org/ddste/aldcels/earth-environmental-sciences/computational-earth-science/index.php)).
+My primary 
+<!-- [research](/research/){: .btn--research}  -->
+[research](/research/)
+area is multi-phase fluid
+flow and transport in porous and fractured media, and I am also very excited
+about topics related to **planetary exploration** (e.g., Mars methane), **nuclear monitoring**, **hydrogeology**, and
+**petroleum geofluids**. I enjoy developing and applying multi-phase flow and
+transport models in creative ways to answer emerging questions at the intersection
+of subsurface flow, fracture-matrix interactions, and reactive transport.
+You can find more information about my research at my [LANL
+Expertise
+Profile](https://lanlexperts.elsevierpure.com/en/persons/john-philip-ortiz).
+
+I am open to collaboration, so please reach out to me at my email in the
+sidebar if you are interested in working with me!
+
+
+<!-- While my primary focus lies in the simulation of multi-phase fluid flow and transport within porous and fractured media using advanced numerical models, I am equally energized by the realms of planetary science, hydrogeology, and petroleum geofluids. -->
+<!-- My research is done in collaboration with the Energy and Natural -->
+<!-- Resources Security Group (previously called Computational Earth Science) -->
+<!-- ([EES-16](https://www.lanl.gov/org/ddste/aldcels/earth-environmental-sciences/computational-earth-science/index.php)) -->
+<!-- at Los Alamos National Laboratory. [LANL Expertise -->
+<!-- Profile](https://lanlexperts.elsevierpure.com/en/persons/john-philip-ortiz) -->
 
 
 
