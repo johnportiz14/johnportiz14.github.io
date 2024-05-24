@@ -15,7 +15,7 @@ redirect_from:
 
 Welcome to my webpage!
 
-I am a researcher at Los Alamos National Laboratory
+I am a Postdoctoral researcher at Los Alamos National Laboratory
 ([LANL](https://www.lanl.gov/)) in the Energy and Natural Resources Security
 Group
 ([EES-16](https://www.lanl.gov/org/ddste/aldcels/earth-environmental-sciences/computational-earth-science/index.php)).
