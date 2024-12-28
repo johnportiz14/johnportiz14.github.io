@@ -24,7 +24,7 @@ My primary
 [research](/research/)
 area is multi-phase fluid
 flow and transport in porous and fractured media, and I am also very excited
-about topics related to **planetary exploration** (e.g., Mars methane), **nuclear monitoring**, **hydrogeology**, and
+about topics related to **planetary exploration** (e.g., Mars methane, Ocean Worlds, Titan, hypervelocity impacts), **nuclear monitoring**, **hydrogeology**, and
 **petroleum geofluids**. I enjoy developing and applying multi-phase flow and
 transport models in creative ways to answer emerging questions at the intersection
 of subsurface flow, fracture-matrix interactions, and reactive transport.
@@ -192,7 +192,7 @@ Updates
 <!-- -------------------------------------------------------------------- -->
 <ul>
   {% assign featuredposts = site.posts | where:'featured','true' %}
-  {% for post in featuredposts limit:3 %}
+  {% for post in featuredposts limit:1 %}
  <!-- <li> -->
     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 

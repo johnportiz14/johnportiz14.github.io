@@ -58,6 +58,8 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &twitter
+bluesky:
+  username               : &bluesky
 facebook:
   username               :
   app_id                 :
@@ -110,6 +112,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
+  bluesky          : "johnportiz14.bsky.social"
   twitter          : "JohnPOrtiz14"
   vine             :
   weibo            :
