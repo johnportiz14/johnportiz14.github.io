@@ -34,6 +34,14 @@ Adsorption is the adhesion of atoms, ions or molecules from a gas, liquid or dis
 
 ## Articles
 
+<b>Ortiz, J. P.</b>, Neil, C. W., Rajaram, H., Boukhalfa, H., & Stauffer, P. H.
+(2025). Preferential adsorption of noble gases in zeolitic tuff with variable saturation: A modeling study of counter-intuitive diffusive-adsorptive behavior.  <i>Journal of
+Environmental Radioactivity</i>. 282, 107608. doi:10.1016/j.jenvrad.2024.107608.
+
+[Page](/publication/2025-ztuff-jenvrad){: .btn--research} [Article](https://doi.org/10.1016/j.jenvrad.2024.107608){: .btn--research} 
+
+---------
+
 Neil, C. W., Boukhalfa, H., Xu, H., Ware, S. D., <b>Ortiz, J.</b>, Avendaño, S., Harp, D. R., Broome, S., Hjelm, R. P., Brug, W. P., & Stauffer, P. H. (2022). Gas diffusion through variably-water-saturated zeolitic tuff: Implications for transport following a subsurface nuclear event. <i>Journal of Environmental Radioactivity</i>, 250, 106905.
 
 [Page](/publication/2022-gasDiffusion-neil-jenvrad){: .btn--research} [Article](https://doi.org/10.1016/j.jenvrad.2022.106905){: .btn--research} 
