@@ -84,7 +84,9 @@ analytics:
 author:
   name             : "John P. Ortiz, Ph.D." #"Your Sidebar Name"
   avatar           : "JohnPhilipOrtiz-cropped.jpg"
-  bio              : "Postdoc @ Los Alamos National Laboratory" 
+  # bio              : "Postdoc @ Los Alamos National Laboratory" 
+  bio              : "Director's Fellow @ Los Alamos National Laboratory"
+  # bio              : "Director's Fellow @ "&employer #Los Alamos National Laboratory" 
   # bio              : "Postdoc @ "&employer #Los Alamos National Laboratory" 
   # bio              : "PhD Candidate @ Johns Hopkins University"
   location         : #"Location"

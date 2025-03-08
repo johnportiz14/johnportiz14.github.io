@@ -15,10 +15,10 @@ redirect_from:
 
 Welcome to my webpage!
 
-I am a Postdoctoral researcher at Los Alamos National Laboratory
-([LANL](https://www.lanl.gov/)) in the Energy and Natural Resources Security
-Group
-([EES-16](https://www.lanl.gov/org/ddste/aldcels/earth-environmental-sciences/computational-earth-science/index.php)).
+I am a Director's Postdoctoral Fellow at Los Alamos National Laboratory
+([LANL](https://www.lanl.gov/)) in the National Security Earth Science Group (EES-17).
+
+<!-- ([EES-17](https://www.lanl.gov/org/ddste/aldcels/earth-environmental-sciences/computational-earth-science/index.php)). -->
 My primary 
 <!-- [research](/research/){: .btn--research}  -->
 [research](/research/)
@@ -32,7 +32,7 @@ You can find more information about my research at my [LANL
 Expertise
 Profile](https://lanlexperts.elsevierpure.com/en/persons/john-philip-ortiz).
 
-I am open to collaboration, so please reach out to me at my email in the
+I have many research interests and am open to collaboration, so please reach out to me at my email in the
 sidebar if you are interested in working with me!
 
 
