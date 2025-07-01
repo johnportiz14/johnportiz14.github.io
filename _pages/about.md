@@ -192,7 +192,7 @@ Updates
 <!-- -------------------------------------------------------------------- -->
 <ul>
   {% assign featuredposts = site.posts | where:'featured','true' %}
-  {% for post in featuredposts limit:2 %}
+  {% for post in featuredposts limit:3 %}
  <!-- <li> -->
     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 
