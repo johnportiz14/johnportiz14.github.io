@@ -32,6 +32,10 @@ Noble gas transport through geologic media has important applications in the cha
 
 ## Articles
 
+Lucero, D. D., Bourret, S. M., <b>Ortiz, J. P.</b>, Fritz, B. G., Bodmer, M. A., Heath, J. E., ... & Stauffer, P. H. (2025). Permeability scaling relationships of volcanic tuff from core to field scale measurements. <i>Scientific Reports</i>, 15(1), 12938.
+
+[Page](/publication/2025-pe1Perm-lucero-sciRep){: .btn--research} [Article](https://doi.org/10.1038/s41598-025-96835-5){: .btn--research} 
+
 Neil, C. W., Boukhalfa, H., Xu, H., Ware, S. D., <b>Ortiz, J.</b>, Avendaño, S., Harp, D. R., Broome, S., Hjelm, R. P., Brug, W. P., & Stauffer, P. H. (2022). Gas diffusion through variably-water-saturated zeolitic tuff: Implications for transport following a subsurface nuclear event. <i>Journal of Environmental Radioactivity</i>, 250, 106905.
 
 [Page](/publication/2022-gasDiffusion-neil-jenvrad){: .btn--research} [Article](https://doi.org/10.1016/j.jenvrad.2022.106905){: .btn--research} 
