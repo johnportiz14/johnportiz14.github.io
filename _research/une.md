@@ -4,7 +4,7 @@ layout: single-portfolio
 excerpt: "<img src='/images/research/explosion_full_iso.gif' alt='UNE cartoon animation'>"
 collection: research
 author_profile: true
-order_number: 20
+order_number: 2
 header: 
 #  og_image: "research/epr.png"
 tags:

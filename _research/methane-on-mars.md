@@ -5,7 +5,7 @@ layout: single-portfolio
 excerpt: "<img src='/images/research/curiositySlice.gif' alt='Cartoon gif of Curiosity measuring methane on the surface of Mars'>"
 collection: research
 author_profile: true
-order_number: 10
+order_number: 1
 header: 
 #  og_image: "research/epr.png"
 tags:
