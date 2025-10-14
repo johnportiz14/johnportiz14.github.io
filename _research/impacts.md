@@ -1,8 +1,8 @@
 --- 
-title: "Planetary Impacts"
+title: "Hypervelocity Impacts"
 layout: single-portfolio
 #excerpt: "<img src='/images/research/curiositySlice.gif' alt='Cartoon gif of Curiosity measuring methane on the surface of Mars'>"
-excerpt: "<img src='/images/research/mainImpact.png' alt='View of a vertical comet impact and resulting fracture network'>"
+excerpt: "<img src='/images/research/vel_till_t22-ezgif.com-crop.gif' alt='Animation of vertical comet impact.'>"
 collection: research
 author_profile: true
 order_number: 3 
