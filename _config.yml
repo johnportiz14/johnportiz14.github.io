@@ -274,6 +274,9 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+
+# Disable GitHub Metadata for local development
+github: [metadata]
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
