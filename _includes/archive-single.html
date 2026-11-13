@@ -87,7 +87,7 @@
         </div>
         </a>
       </p>
-    {% elsif post.excerpt and site.read_more != 'enabled' %}
+    {% elsif post.excerpt and post.collection != 'publications' and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
       <p class="archive__item-excerpt" itemprop="description">
