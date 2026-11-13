@@ -15,19 +15,22 @@ redirect_from:
 
 Welcome to my webpage!
 
-I am a Director's Postdoctoral Fellow at Los Alamos National Laboratory
-([LANL](https://www.lanl.gov/)) in the National Security Earth Science Group (EES-17).
+I am a Staff Scientist at Los Alamos National Laboratory
+([LANL](https://www.lanl.gov/)) in the National Security Earth Science Group
+(EES-17). I was previously a Director's Postdoctoral Fellow in the same group.
 
 <!-- ([EES-17](https://www.lanl.gov/org/ddste/aldcels/earth-environmental-sciences/computational-earth-science/index.php)). -->
 My primary 
 <!-- [research](/research/){: .btn--research}  -->
 [research](/research/)
-area is multi-phase fluid
-flow and transport in porous and fractured media, and I am also very excited
-about topics related to **planetary exploration** (e.g., Mars methane, Ocean Worlds, Titan, hypervelocity impacts), **nuclear monitoring**, **hydrogeology**, and
-**petroleum geofluids**. I enjoy developing and applying multi-phase flow and
-transport models in creative ways to answer emerging questions at the intersection
-of subsurface flow, fracture-matrix interactions, and reactive transport.
+area is geomechanics combined with multi-phase fluid flow and transport in
+porous and fractured media, and I am also very excited about topics related to
+**planetary exploration** (e.g., Mars methane, lunar surface environments,
+Ocean Worlds, Titan, hypervelocity impacts), **nuclear monitoring**,
+**hydrogeology**, and **petroleum geofluids**. I enjoy developing and applying
+multi-phase flow and transport models in creative ways to answer emerging
+questions at the intersection of subsurface flow, fracture-matrix interactions,
+and reactive transport.
 You can find more information about my research at my [LANL
 Expertise
 Profile](https://lanlexperts.elsevierpure.com/en/persons/john-philip-ortiz).
