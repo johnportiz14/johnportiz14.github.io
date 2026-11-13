@@ -8,7 +8,7 @@ tags:
   - Mars 
   - conferences
   - planetary science
-featured: true 
+featured: false 
 #excerpt: "<img src='/images/posts/nmtBureau_walkoutSlide.png' alt='NMT-talkBanner' width='500px'/>"
 ---
 
